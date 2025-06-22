@@ -77,8 +77,10 @@ projekt_zaliczeniowy
 
 
 ## Instalacja
-git clone ********** # (tu podam później link do ostatecznego repozytorium, np. GitHub)
-cd **********
+git clone https://github.com/emilias90/projekt_zaliczeniowy
+
+cd projekt_zaliczeniowy
+
 Uruchom aplikację:
 
 
